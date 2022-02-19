@@ -1,0 +1,14 @@
+#What is the command to clear your terminal display
+Ans: Clear
+
+#What is the command to delete a file
+Ans: rm
+
+#What command is used to change directories
+Ans: cd
+
+#what command is used to get the ip address of all interfaces on a server
+Ans: curl ifconfig.co
+
+#what command is used to change the ownership of a file??
+Ans: chown
